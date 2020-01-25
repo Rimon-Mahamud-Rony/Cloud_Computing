@@ -1,0 +1,40 @@
+body
+{
+	background-image: url('background.png');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+#banner
+{
+	font-family: 'Ubuntu Condensed', sans-serif;
+
+    font-family: 'Oswald', sans-serif;
+	background-color: #336699;
+	font-size: 40px;
+}
+#total
+{
+	margin: 3%;
+}
+#left
+{
+	border-right: solid 1px gray;
+	font-family: 'Ubuntu Condensed', sans-serif;
+
+    font-family: 'Oswald', sans-serif;
+	float: left;
+}
+#right
+{
+	float: right;
+}
+#bl
+{
+	margin-left: 8%;
+	text-shadow: 2px -4px 4px black; 
+}
+.wth
+{
+	margin-left: 5px;
+	color: white;
+}
